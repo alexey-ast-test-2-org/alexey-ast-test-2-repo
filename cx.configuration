@@ -13,17 +13,7 @@
         }
     },
 	"sca": {
-		"appUrl": "https://sca.scacheckmarx.com",
-		"apiUrl": "https://api.scacheckmarx.com",
-		"accessControlUrl": "https://platform.checkmarx.net",
-		"tenant": "cxflow",
-		"thresholdsSeverity": {
-			"HIGH": 10,
-			"MEDIUM": 7,
-			"LOW": 3
-		},
-		"thresholdsScore": 8.5,
-		"filterSeverity": ["high", "medium", "low"],
-		"filterScore": 7.5
+		"appUrl": "https://test.example.com",
+		"team": "my-test-team"
 	}
 }
